@@ -1,3 +1,4 @@
 # ekole.github.io
 My Portfolio Website.
-ekole.github.io
+https://misterekole.github.io/ekole.github.io/
+https://ekole.github.io
